@@ -1,9 +1,8 @@
 ### Hi there 👋 I am Sumingcheng
+<!--  
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Node.js and Go
 - 📫 How to reach me: `cjwdyzdyplxjg@gmail.com`
-
-<!--  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
