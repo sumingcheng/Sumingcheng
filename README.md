@@ -11,4 +11,4 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumingcheng&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,2b32b2,1488cc" align="right">
 
-https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumingcheng&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,e96443,904e95
+[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumingcheng&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,e96443,904e95](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumingcheng&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,e96443,904e95&langs_count=8&hide=html,css&include_all_commits=true&hide_title=true&card_width=320&exclude_repo=dotnet-docs,Sumingcheng.github.io,Markdown-Syntax-CN )
