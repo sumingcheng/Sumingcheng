@@ -8,8 +8,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumingcheng&layout=compact&hide=scss,css,html,stylus&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,e96443,904e95)   
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumingcheng&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,2b32b2,1488cc" align="right">
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumingcheng&layout=compact&hide=scss,css,html,stylus&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,e96443,904e95)     
+  
 
