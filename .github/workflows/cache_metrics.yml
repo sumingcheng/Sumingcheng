@@ -1,6 +1,9 @@
 name: Cache Metrics Image
 
 on:
+  push:
+    branches:
+      - main # Assuming your primary branch is named "main"
   schedule:
     - cron: '0 6,18 * * *' # Runs every day at midnight
 
