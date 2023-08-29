@@ -37,7 +37,7 @@ jobs:
           git config --local user.name "sumingcheng"
           # 添加文件到Git
           git add metrics.png
-          # 提交更改，包含当前的日期和时间
+          # 提交更改
           git commit -m "Update cached Metrics image: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           # 推送更改
           git push
