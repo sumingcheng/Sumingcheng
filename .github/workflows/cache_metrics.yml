@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "cjwdyzdyplxjg@gmail.com"
+          git config --local user.name "sumingcheng"
           git add metrics.png
           git commit -m "Update cached Metrics image" || echo "No changes to commit"
           git push
