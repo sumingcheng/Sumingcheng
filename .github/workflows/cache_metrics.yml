@@ -43,7 +43,7 @@ jobs:
           git config --local user.email "cjwdyzdyplxjg@gmail.com"
           git config --local user.name "sumingcheng"
           # 添加文件到Git
-          git add metrics.png
+          git add metrics.svg
           # 提交更改
           git commit -m "Update cached Metrics image: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           # 推送更改
