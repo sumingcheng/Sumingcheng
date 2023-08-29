@@ -1,0 +1,26 @@
+name: Cache Metrics Image
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *' # Runs every day at midnight
+
+jobs:
+  cache-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Metrics image
+        run: |
+          # Here, you can use curl or other tools to fetch the Metrics image and save it to your repository
+          curl -o metrics.png "https://metrics.lecoq.io/sumingcheng?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss%2Cscss%2Cless%2Cstylus&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30000&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add metrics.png
+          git commit -m "Update cached Metrics image" || echo "No changes to commit"
+          git push
