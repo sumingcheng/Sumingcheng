@@ -2,4 +2,4 @@
 . [blog](https://www.sumingcheng.cn)
 
 ---
-![Metrics](https://github.com/sumingcheng/Sumingcheng/raw/main/metrics.svg)
+<!-- ![Metrics](https://github.com/sumingcheng/Sumingcheng/raw/main/metrics.svg) -->
