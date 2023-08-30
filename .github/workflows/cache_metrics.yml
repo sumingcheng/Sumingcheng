@@ -4,12 +4,12 @@ name: Cache Metrics Image
 # 触发条件
 on:
   # 当推送到main分支时触发
-  # push:
-  #   branches:
-  #     - main # 假设您的主分支名为"main"
+  push:
+    branches:
+      - 'never-trigger-this-branch-name' # 假设您的主分支名为"main"
   # 按计划触发，每天的6点和18点
-  schedule:
-    - cron: '0 6,18 * * *'
+  # schedule:
+  #   - cron: '0 6,18 * * *'
 
 # 任务定义
 jobs:
