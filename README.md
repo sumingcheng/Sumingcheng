@@ -6,7 +6,7 @@
 - [**笔记本**](https://sumingcheng.github.io/NoteBook/)
 - [**个人博客**](https://www.sumingcheng.cn)
 - [**Vue3 & TS 聊天应用**](https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/)
-- [**ChatGPT VPN**](https://gw-yundong.vip/#/register?code=GXzs8dvy)
+- [**ChatGPT VPN 推荐**](https://gw-yundong.vip/#/register?code=GXzs8dvy)
 
 ### 📫 联系我
 
