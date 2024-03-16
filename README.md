@@ -5,4 +5,4 @@
 - [**Vue3 & TS 聊天应用**](https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/)
 - [**ChatGPT VPN 推荐**](https://gw-yundong.vip/#/register?code=GXzs8dvy)
 
-- **邮箱**：[cjwdyzdyplxjg@gmail.com](mailto:cjwdyzdyplxjg@gmail.com)
+- [cjwdyzdyplxjg@gmail.com](mailto:cjwdyzdyplxjg@gmail.com)
