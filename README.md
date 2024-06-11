@@ -5,5 +5,5 @@
 - [**Vue3 & TS Chat Application**](https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/)
 - [**ChatGPT VPN Recommendations**](https://gw-yundong.vip/#/register?code=GXzs8dvy)
 
-![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
+![skills](https://skillicons.dev/icons?i=c,go,java,js,ts,py,html,less,sass,mysql,redis,sqlite,mongodb,docker,kubernetes,git,linux,nginx,webpack,vite,babel,vue,react,nextjs,nuxtjs,electron,nodejs,express,arduino,ipfs)
 
