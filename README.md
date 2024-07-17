@@ -6,7 +6,7 @@
 [**ChatGPT 代理**](https://gw-yundong.vip/#/register?code=GXzs8dvy) ● 
 [**ChatGPT 中转**](https://api.xi-ai.cn/register/?aff_code=Bam5)
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,nuxtjs,express,ipfs,arduino,c" style="width: 80%;">
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
 
 <details>
   <summary>Project List</summary>
