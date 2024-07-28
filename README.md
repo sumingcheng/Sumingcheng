@@ -12,7 +12,7 @@
 
 - [Vue3-TS-ChatGPT](https://github.com/sumingcheng/Vue3-TS-ChatGPT) - Vue 3 and TypeScript ChatGPT client.
 - [ipfs-desktop](https://github.com/sumingcheng/ipfs-desktop) - IPFS Desktop Enhanced Edition.
-- [DevTools](https://github.com/sumingcheng/DevTools) - Rapid deployment tools for developers.
+- [dev-tools](https://github.com/sumingcheng/DevTools) - Rapid deployment tools for developers.
 - [gin-blog](https://github.com/sumingcheng/gin-blog) - React and Gin blog platform template.
 - [microservice-templates](https://github.com/sumingcheng/microservice-templates) - Sales system microservice architecture templates.
 - [GoSecKill](https://github.com/sumingcheng/GoSecKill) - Flash sales system in Go.
