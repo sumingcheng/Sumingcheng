@@ -1,12 +1,16 @@
-[**Yuque**](https://www.yuque.com/sumingcheng) ·
-[**Notebook**](https://sumingcheng.github.io/NoteBook/) ·
-[**Personal Blog**](https://www.sumingcheng.cn) ·
-[**Vue3 & TS Chat**](https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/) ·
-[**ChatGPT Proxy1**](https://gw-yundong.vip/#/register?code=GXzs8dvy) ·
-[**ChatGPT Proxy2**](https://z.zhuri.cyou/auth/register?code=J7Rn) ·
-[**ChatGPT Relay**](https://api.xi-ai.cn/register/?aff_code=Bam5)
+<div style="text-align: center;">
+    <p>
+        <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> ·
+        <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> ·
+        <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> ·
+        <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> ·
+        <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> ·
+        <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> ·
+        <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
+    </p>
+    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
+</div>
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
 
 <table align="center">
     <tr>
