@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/go-Learning">go-Learning</a> - Go 语言学习指南及博客。</td>
-        <td><a href="https://github.com/sumingcheng/GoSecKill">GoSecKill</a> - Go 语言实现的秒杀系统。</td>
+        <td><a href="https://github.com/sumingcheng/go-crawler">GoSecKill</a> - Go 知乎文章爬取。</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/NodeChat">NodeChat</a> - Node 聊天室。</td>
