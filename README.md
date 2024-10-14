@@ -8,9 +8,8 @@
         <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> ·
         <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
     </p>
-    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
 </div>
-
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
 
 <table align="center">
     <tr>
