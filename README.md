@@ -10,7 +10,7 @@
 
 <table align="center">
     <tr>
-        <td><a href="https://github.com/sumingcheng/Vue3-TS-ChatGPT">Vue3-TS-ChatGPT</a> - Vue 3 和 TypeScript 的 ChatGPT 客户端。</td>
+        <td><a href="https://github.com/sumingcheng/Vue3-TS-ChatGPT">Vue3-TS-ChatGPT</a> - Vue 3 + TS ChatGPT 客户端。</td>
         <td><a href="https://github.com/sumingcheng/ipfs-desktop">ipfs-desktop</a> - 增强版 IPFS Desktop。</td>
     </tr>
     <tr>
