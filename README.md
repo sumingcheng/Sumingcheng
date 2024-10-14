@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/ipfs-desktop">ipfs-desktop</a> - 增强版 IPFS Desktop。</td>
-        <td><a href="https://github.com/sumingcheng/microservice-templates">microservice-templates</a> - 销售系统微服务架构模板。</td>
+        <td><a href="https://github.com/sumingcheng/microservice-templates">microservice-templates</a> - 微服务架构模板。</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/go-Learning">go-Learning</a> - Go 语言学习指南及博客。</td>
