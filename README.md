@@ -13,7 +13,7 @@
 </br>
 <table align="center">
     <tr>
-        <td><a href="https://github.com/sumingcheng/DevTools">dev-tools</a> - 开发者快速部署工具。</td>
+        <td><a href="https://github.com/sumingcheng/dev-tools">dev-tools</a> - 开发者快速部署工具。</td>
         <td><a href="https://github.com/sumingcheng/python-template">python-template</a> - Python 项目模板。</td>
     </tr>
     <tr>
