@@ -9,7 +9,7 @@
         <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
     </p>
 </div>
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%;">
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%; padding-left:20px;">
 
 <table align="center">
     <tr>
