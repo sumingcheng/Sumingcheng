@@ -42,7 +42,7 @@
         <td><a href="https://github.com/sumingcheng/React-TS-Admin">React-TS-Admin</a> - React 和 TypeScript 的管理后台。</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sumingcheng/vite-ts-element">vite-ts-element</a> - 使用 TypeScript 的 Vue 3 和 Element Plus。</td>
+        <td><a href="https://github.com/sumingcheng/vite-ts-element">vite-ts-element</a> - Vue3 + TS + Element Plus 框架。</td>
         <td><a href="https://github.com/sumingcheng/telegram-bot">telegram-bot</a> - Telegram 批量文件上传机器人。</td>
     </tr>
     <tr>
