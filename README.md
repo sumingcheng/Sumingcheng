@@ -10,8 +10,7 @@
     </p>
     <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%; padding-left:20px;">
 </div>
-
-
+</br>
 <table align="center">
     <tr>
         <td><a href="https://github.com/sumingcheng/Vue3-TS-ChatGPT">Vue3-TS-ChatGPT</a> - Vue 3 + TS ChatGPT 客户端。</td>
