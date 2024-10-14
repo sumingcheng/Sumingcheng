@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/KoaStarter">KoaStarter</a> - Koa.js 后端模板。</td>
-        <td><a href="https://github.com/sumingcheng/ModuVue">ModuVue</a> - Vue 项目模板。</td>
+        <td><a href="https://github.com/sumingcheng/ModuVue">ModuVue</a> - Vue 高度模块化项目模板。</td>
     </tr>
 </table>
 
