@@ -1,17 +1,20 @@
-<div <div align="center">
-    <p>
-        <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> ·
-        <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> ·
-        <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> ·
-        <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> ·
-        <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> ·
-        <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> ·
-        <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
-    </p>
-    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%; padding-left:20px;">
-</div>
-</br>
 <table align="center">
+    <tr>
+        <p align="center">
+            <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> ·
+            <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> ·
+            <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> ·
+            <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> ·
+            <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> ·
+            <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> ·
+            <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
+        </p>
+    </tr>
+    <tr>
+        <p align="center">
+        <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%; align="center">
+        </p>
+    </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/dev-tools">dev-tools</a> - 开发者快速部署工具。</td>
         <td><a href="https://github.com/sumingcheng/python-template">python-template</a> - Python 项目模板。</td>
