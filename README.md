@@ -24,7 +24,7 @@
         <td><a href="https://github.com/sumingcheng/telegram-bot">telegram-bot</a> - Telegram 批量文件上传机器人。</td>
     </tr>
         <td><a href="https://github.com/sumingcheng/chat-bi">chat-bi</a> - 自然语言转 SQL。</td>
-        <td><a href="https://github.com/sumingcheng/clash-linux">chat-bi</a> - clash-linux。</td>
+        <td><a href="https://github.com/sumingcheng/clash-linux">clash-linux</a> - clash-linux。</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/fastgpt-admin">fastgpt-admin</a> - FastGPT 用户后台管理。</td>
