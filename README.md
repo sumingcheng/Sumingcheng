@@ -20,12 +20,14 @@
         <td><a href="https://github.com/sumingcheng/gin-blog">gin-blog</a> - React + Gin 的博客模板。</td>
         <td><a href="https://github.com/sumingcheng/telegram-bot">telegram-bot</a> - Telegram 批量文件上传机器人。</td>
     </tr>
+        <td><a href="https://github.com/sumingcheng/chat-bi">chat-bi</a> - 自然语言转 SQL。</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/fastgpt-admin">fastgpt-admin</a> - FastGPT 用户后台管理。</td>
         <td><a href="https://github.com/sumingcheng/Vue3-TS-ChatGPT">Vue3-TS-ChatGPT</a> - Vue 3 + TS ChatGPT 客户端。</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sumingcheng/ipfs-desktop">ipfs-desktop</a> - 增强版 IPFS Desktop。</td>
+        <td><a href="https://github.com/sumingcheng/ipfs-desktop">ipfs-desktop</a> - 私有部署版 IPFS Desktop。</td>
         <td><a href="https://github.com/sumingcheng/microservice-templates">microservice-templates</a> - 微服务架构模板。</td>
     </tr>
     <tr>
@@ -50,7 +52,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/React-TS-Admin">React-TS-Admin</a> - React + TypeScript 后台模板。</td>
-        <td><a href="https://github.com/sumingcheng/vite-ts-element">vite-ts-element</a> - Vue3 + TS + Element Plus 框架。</td>
+        <td><a href="https://github.com/sumingcheng/vite-ts-element">vite-ts-element</a> - Vue3 + TS + Element Plus 模板。</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sumingcheng/ImagePreview">ImagePreview</a> - 自定义图片预览功能。</td>
