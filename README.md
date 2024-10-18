@@ -51,7 +51,7 @@
         <td><a href="https://github.com/sumingcheng/ReactEase">ReactEase</a> - 基于 Vite 和 React 的开发模板。</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sumingcheng/React-TS-Admin">React-TS-Admin</a> - React + TypeScript 后台模板。</td>
+        <td><a href="https://github.com/sumingcheng/React-TS-Admin">React-TS-Admin</a> - React + TS 模板。</td>
         <td><a href="https://github.com/sumingcheng/vite-ts-element">vite-ts-element</a> - Vue3 + TS + Element Plus 模板。</td>
     </tr>
     <tr>
