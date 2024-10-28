@@ -1,4 +1,4 @@
-### 📚 Documents and Blogs
+### 📚 Documents & Blogs
 <div>
 
 | [Yuque](https://www.yuque.com/sumingcheng) | [Notebook](https://sumingcheng.github.io/NoteBook/) | [Blog](https://www.sumingcheng.cn) | [ChatGPT Proxy1](https://gw-yundong.vip/#/register?code=GXzs8dvy) | [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) | [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5) |
