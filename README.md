@@ -1,12 +1,9 @@
 ### 📚 文档与博客
 <div>
-    <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> •
-    <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> •
-    <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> •
-    <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> •
-    <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> •
-    <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> •
-    <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
+
+| [Yuque](https://www.yuque.com/sumingcheng) | [Notebook](https://sumingcheng.github.io/NoteBook/) | [Blog](https://www.sumingcheng.cn) | [ChatGPT Proxy1](https://gw-yundong.vip/#/register?code=GXzs8dvy) | [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) | [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5) |
+| ------------------------------------------ | --------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 </div>
 <hr>
 
