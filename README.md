@@ -1,20 +1,34 @@
-<table align="center">
-    <tr>
-        <p align="center">
-            <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> ·
-            <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> ·
-            <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> ·
-            <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> ·
-            <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> ·
-            <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> ·
-            <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
-        </p>
-    </tr>
-    <tr>
-        <p align="center">
-        <img src="https://skillicons.dev/icons?i=go,nodejs,ts,py,mysql,redis,mongodb,docker,kubernetes,nginx,js,vue,react,nextjs,ipfs" style="width: 50%; align="center">
-        </p>
-    </tr>
+<div>
+    <a href="https://www.yuque.com/sumingcheng"><strong>Yuque</strong></a> •
+    <a href="https://sumingcheng.github.io/NoteBook/"><strong>Notebook</strong></a> •
+    <a href="https://www.sumingcheng.cn"><strong>Personal Blog</strong></a> •
+    <a href="https://sumingcheng.github.io/Vue3-TS-ChatGPT/#/"><strong>Vue3 & TS Chat</strong></a> •
+    <a href="https://gw-yundong.vip/#/register?code=GXzs8dvy"><strong>ChatGPT Proxy1</strong></a> •
+    <a href="https://z.zhuri.cyou/auth/register?code=J7Rn"><strong>ChatGPT Proxy2</strong></a> •
+    <a href="https://api.xi-ai.cn/register/?aff_code=Bam5"><strong>ChatGPT Relay</strong></a>
+</div>
+<hr>
+
+<div>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/IPFS-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
+</div>
+<hr>
+
+<table>
     <tr>
         <td><a href="https://github.com/sumingcheng/dev-tools">dev-tools</a> - deployment tools for developers.</td>
         <td><a href="https://github.com/sumingcheng/python-template">python-template</a> - Python project template.</td>
@@ -23,7 +37,8 @@
         <td><a href="https://github.com/sumingcheng/gin-blog-template">gin-blog</a> - React + Gin.</td>
         <td><a href="https://github.com/sumingcheng/telegram-bot">telegram-bot</a> - Telegram bot.</td>
     </tr>
-        <td><a href="https://github.com/sumingcheng/chat-bi">chat-bi</a> - Natural language to SQL </td>
+    <tr>
+        <td><a href="https://github.com/sumingcheng/chat-bi">chat-bi</a> - Natural language to SQL</td>
         <td><a href="https://github.com/sumingcheng/clash-linux">clash-linux</a> - Linux Clash.</td>
     </tr>
     <tr>
@@ -67,3 +82,7 @@
         <td><a href="https://github.com/sumingcheng/ModuVue">ModuVue</a> - Highly modular Vue project template.</td>
     </tr>
 </table>
+
+<hr>
+
+![Profile views](https://komarev.com/ghpvc/?username=sumingcheng&color=6cc8f6)
