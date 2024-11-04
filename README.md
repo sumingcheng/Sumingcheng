@@ -10,13 +10,8 @@
 ### 🛠 Tech Stack
 <div>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Arduino-%23B4B400.svg?style=for-the-badge&logo=arduino&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-D82C20.svg?style=for-the-badge&logo=redis&logoColor=white">
@@ -24,14 +19,23 @@
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/microk8s-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/electron-%234B8BBE.svg?style=for-the-badge&logo=electron&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/koa2-%233D5B4B.svg?style=for-the-badge&logo=koa&logoColor=white">
     <img src="https://img.shields.io/badge/Kafka-%23166E65.svg?style=for-the-badge&logo=apachekafka&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/IPFS-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/electron-%234B8BBE.svg?style=for-the-badge&logo=electron&logoColor=white">
+    <img src="https://img.shields.io/badge/koa2-%233D5B4B.svg?style=for-the-badge&logo=koa&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/shadcn/ui-%234A6EFA.svg?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 
