@@ -7,7 +7,7 @@
 </div>
 <hr>
 
-### 🛠 Tech Stack
+### 🛠 Backend Tech Stack
 <div>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/IPFS-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
 </div>
 
+### 🛠 Frontend Tech Stack
 <div>
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -34,10 +35,9 @@
     <img src="https://img.shields.io/badge/electron-%234B8BBE.svg?style=for-the-badge&logo=electron&logoColor=white">
     <img src="https://img.shields.io/badge/koa2-%233D5B4B.svg?style=for-the-badge&logo=koa&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/shadcn/ui-%234A6EFA.svg?style=for-the-badge&logo=react&logoColor=white">
 </div>
-
 
 <hr>
 
