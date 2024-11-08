@@ -43,7 +43,7 @@
 
 ### 🔗 Project
 <details>
-    <summary>Click Click~</summary>
+    <summary> 😍 👀 ~</summary>
     
 | Project |
 |---------|
