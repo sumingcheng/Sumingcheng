@@ -7,7 +7,7 @@
 </div>
 <hr>
 
-### 🛠 Backend Tech Stack
+### 🛠 Main Tech Stack
 
 <div>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
