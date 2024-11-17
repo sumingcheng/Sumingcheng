@@ -18,28 +18,36 @@
 <details>
   <summary>🧐 👀 ~</summary>
 <div>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-%23B4B400.svg?style=for-the-badge&logo=arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-D82C20.svg?style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/microk8s-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Kafka-%23166E65.svg?style=for-the-badge&logo=apachekafka&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/IPFS-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/nuxt.js-%234C87C7.svg?style=for-the-badge&logo=nuxt.js&logoColor=white">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/vite-%235D5F5D.svg?style=for-the-badge&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/electron-%234B8BBE.svg?style=for-the-badge&logo=electron&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwind%20CSS-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-%23F3F4F8.svg?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/koa2-%233D5B4B.svg?style=for-the-badge&logo=koa&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/shadcn/ui-%234A6EFA.svg?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/docker%20compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/harbor-%2300A9E0.svg?style=for-the-badge&logo=harbor&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-D82C20.svg?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-%23316092.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/arduino-%23B4B400.svg?style=for-the-badge&logo=arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/ipfs-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
+    <img src="https://img.shields.io/badge/gradio-%23F15C47.svg?style=for-the-badge&logo=gradio&logoColor=white">
 </div>
+
 </details>
 
 <hr>
