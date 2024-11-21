@@ -85,6 +85,7 @@
 | [From-webpack-to-vue-loader](https://github.com/sumingcheng/From-webpack-to-vue-loader) - Guide from webpack to vue-loader. |
 | [KoaStarter](https://github.com/sumingcheng/KoaStarter) - Backend Koa.js template. |
 | [ModuVue](https://github.com/sumingcheng/ModuVue) - Highly modular Vue project template. |
+| [js-string-guide](https://github.com/sumingcheng/js-string-guide) - js-string |
 
 </details>
 
