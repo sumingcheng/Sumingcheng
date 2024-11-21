@@ -10,11 +10,11 @@
 ### 🛠 Tech Stack
 
 <div>
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/go-%2328A4D9.svg?style=for-the-badge&logo=go&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-%2336769E?style=for-the-badge&logo=python&logoColor=white">  
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-    
+
 <details>
   <summary>🧐 👀 ~</summary>
 <div>
@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/vite-%235D5F5D.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/electron-%234B8BBE.svg?style=for-the-badge&logo=electron&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwind%20CSS-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/fastapi-%23F3F4F8.svg?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/koa2-%233D5B4B.svg?style=for-the-badge&logo=koa&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23404B30.svg?style=for-the-badge&logo=express&logoColor=white">
@@ -35,8 +35,8 @@
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/docker%20compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/harbor-%2300A9E0.svg?style=for-the-badge&logo=harbor&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-D82C20.svg?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%23479BDF.svg?style=for-the-badge&logo=mysql&logoColor=white"> <!-- 更接近MySQL官方颜色 -->
+    <img src="https://img.shields.io/badge/redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-%23316092.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/arduino-%23B4B400.svg?style=for-the-badge&logo=arduino&logoColor=white">
@@ -47,8 +47,8 @@
     <img src="https://img.shields.io/badge/ipfs-%2365186E.svg?style=for-the-badge&logo=ipfs&logoColor=white">
     <img src="https://img.shields.io/badge/gradio-%23F15C47.svg?style=for-the-badge&logo=gradio&logoColor=white">
 </div>
-
 </details>
+
 
 <hr>
 
