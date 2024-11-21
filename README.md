@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/go-%2328A4D9.svg?style=for-the-badge&logo=go&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-%2336769E?style=for-the-badge&logo=python&logoColor=white">  
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/rust-%23E57324.svg?style=for-the-badge&logo=rust&logoColor=white">
 </div>
 
 <details>
