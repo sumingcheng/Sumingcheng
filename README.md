@@ -1,7 +1,7 @@
 ### 📚 Documents & Blogs
 <div>
 
-| [Yuque](https://www.yuque.com/sumingcheng) | [Notebook](https://sumingcheng.github.io/docs-hub) | [Blog](https://www.sumingcheng.cn) | [ChatGPT Proxy1](https://gw-yundong.vip/#/register?code=GXzs8dvy) | [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) | [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5) |
+| [Yuque](https://www.yuque.com/sumingcheng) | [docs-hub](https://sumingcheng.github.io/docs-hub) | [Blog](https://www.sumingcheng.cn) | [ChatGPT Proxy1](https://gw-yundong.vip/#/register?code=GXzs8dvy) | [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) | [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5) |
 | ------------------------------------------ | --------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 </div>
