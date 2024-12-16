@@ -1,10 +1,7 @@
 ### 📚 Documents & Blogs
-<div>
 
-| [blog](https://www.sumingcheng.cn) | [documents ](https://sumingcheng.github.io/docs-hub) | [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) | [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5) |
-| ------------------------------------------ | --------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+[Blog](https://www.sumingcheng.cn) . [Documents](https://sumingcheng.github.io/docs-hub) . [ChatGPT Proxy2](https://z.zhuri.cyou/auth/register?code=J7Rn) . [ChatGPT Relay](https://api.xi-ai.cn/register/?aff_code=Bam5)
 
-</div>
 <hr>
 
 ### 🛠 Tech Stack
