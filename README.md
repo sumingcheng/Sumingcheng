@@ -9,9 +9,12 @@
 <div>
     <img src="https://img.shields.io/badge/go-%2328A4D9.svg?style=for-the-badge&logo=go&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-%2336769E?style=for-the-badge&logo=python&logoColor=white">  
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-%232E7B8B.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23F8B800.svg?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/rust-%23E57324.svg?style=for-the-badge&logo=rust&logoColor=white">
 </div>
+
 
 <details>
   <summary>🧐 👀 ~</summary>
