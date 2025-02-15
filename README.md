@@ -53,7 +53,9 @@
 <hr>
 
 ### 🔗 Project
-<details>
+
+[Code](https://sumingcheng.cn/code)
+<!-- <details>
     <summary> 😍 👀 ~</summary>
     
 | Project |
@@ -86,7 +88,7 @@
 | [ModuVue](https://github.com/sumingcheng/ModuVue) - Highly modular Vue project template. |
 | [js-string-guide](https://github.com/sumingcheng/js-string-guide) - js-string |
 
-</details>
+</details> -->
 
 
 <hr>
