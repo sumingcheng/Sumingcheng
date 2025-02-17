@@ -54,7 +54,7 @@
 
 ### 🔗 Project
 
-[Code](https://sumingcheng.cn/code)
+ 😍 👀 ~ [Code](https://sumingcheng.cn/code)
 <!-- <details>
     <summary> 😍 👀 ~</summary>
     
