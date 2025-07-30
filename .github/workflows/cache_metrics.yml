@@ -1,0 +1,56 @@
+# 工作流名称
+name: Cache Metrics Image
+
+# 触发条件
+on:
+  # 当推送到main分支时触发
+  push:
+    branches:
+      - 'never-trigger-this-branch-name' # 假设您的主分支名为"main"
+  # 按计划触发，每天的6点和18点
+  # schedule:
+  #   - cron: '0 6,18 * * *'
+
+# 任务定义
+jobs:
+  cache-metrics:
+    # 运行环境
+    runs-on: ubuntu-latest
+
+    # 执行步骤
+    steps:
+      # 检出仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # 生成Metrics图片
+      - name: Generate Metrics image
+        run: |
+
+          for i in {1..5}; do 
+            curl --fail -o metrics.svg "https://metrics.lecoq.io/sumingcheng?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss%2Cscss%2Cless%2Cstylus&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30000&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai"
+            # 检查图片大小
+            if [[ $(stat -c %s metrics.svg) -gt 0 ]]; then
+              break # 如果图片大小大于0KB，退出循环
+            fi
+            sleep 5 # 等待5秒后再次尝试
+          done
+
+          # 检查循环结束后的图片大小
+          if [[ $(stat -c %s metrics.svg) -le 0 ]]; then
+            echo "Failed to fetch a valid image after 5 attempts. Exiting."
+            exit 1
+          fi
+
+      # 提交并推送更改
+      - name: Commit and push changes
+        run: |
+
+          git config --local user.email "cjwdyzdyplxjg@gmail.com"
+          git config --local user.name "sumingcheng"
+          # 添加文件到Git
+          git add metrics.svg
+          # 提交更改
+          git commit -m "Update cached Metrics image: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          # 推送更改
+          git push
